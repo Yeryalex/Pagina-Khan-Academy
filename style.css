@@ -1,0 +1,71 @@
+body {
+    font-family: system-ui;
+   background: #f06d06;
+   color: white;
+   text-align: center;
+ }
+ 
+ #full-page {
+   margin: auto;
+   border: 1px;
+   padding: 10px;
+ }
+ 
+ 
+ #full-page img {
+   border: 3px solid white;
+   padding: 3px;
+ }
+ 
+ h1 {
+   float: center;
+   font-size: 50px;
+ }
+ 
+ .white-text {
+   color: white;
+ }
+ 
+ .black-text {
+   color: black;
+ }
+ h3.black-text {
+   font-size: 40px;
+ }
+ 
+ 
+ #tipos-cafe {
+   text-align: center;
+   float: center;
+ }
+ 
+ #table1 {
+   border-collapse: collapse;
+ }
+ table,
+ td,
+ th {
+   border: 15px inset grey;
+   padding: 10px;
+   text-align:center;
+ }
+ 
+ a:hover {
+   background-color: rgb(80, 80, 80);
+ }
+ a:active {
+   background-color: rgb(80, 80, 80);
+ }
+ 
+ a:focus {
+   background-color: rgb(80, 80, 80);
+ }
+ 
+ 
+ .list-proceso {
+    background-color: rgb(49, 157, 115);
+    text-align: center;
+    margin-bottom: 0%;
+ }
+ 
+ 
